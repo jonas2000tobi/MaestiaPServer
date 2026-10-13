@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------
+Homage Patch Log
+Time:	10/11/26	22:00:36
+-------------------------------------------------------------------------
+
+
+	CONNECTION: BEGIN
+	CONNECTION: END
+
+	INIT UPDATER: BEGIN
+		Check version: BEGIN
+		[CClientUpdater::CheckVersion][Failed GetFileSingle][Remote:Maestia/update/patch/_MthInf.mvd][NewInfoFile:C:\Program Files (x86)\Gravity\MAESTIA\data\_MthInf.mvd]
+		Failed Check Version
+		INIT UPDATER: F_END
+
+
+
+-------------------------------------------------------------------------
+End
+Time:	10/11/26	22:00:58
+
